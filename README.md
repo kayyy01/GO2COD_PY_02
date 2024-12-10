@@ -40,9 +40,9 @@ pip install requests beautifulsoup4
 
 ## Example Output
 '''
-Headline 1: AC Milan Secure Victory Against Rivals
-Headline 2: Transfer News: Rumors Surrounding Key Players
-Headline 3: Match Analysis: Key Moments from Last Night's Game
+- Headline 1: AC Milan Secure Victory Against Rivals
+- Headline 2: Transfer News: Rumors Surrounding Key Players
+- Headline 3: Match Analysis: Key Moments from Last Night's Game
 '''
 
 ## Contributions
